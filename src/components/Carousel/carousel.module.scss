@@ -1,0 +1,16 @@
+.container {
+  margin-top: auto;
+
+  .swiperSlide {
+    max-width: 200px;
+    .imgWrapper {
+      max-width: 200px;
+
+      .image {
+        aspect-ratio: 200/278;
+        width: 100%;
+        cursor: pointer;
+      }
+    }
+  }
+}
